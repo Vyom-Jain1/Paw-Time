@@ -1,4 +1,10 @@
-# Product Service 🐾
+# Paw-Time 🐾
+
+E-Commerce platform for Dogs and Cats
+
+## Services
+
+### Product Service (Anmol)
 
 Backend service for Paw-Time E-Commerce
 
