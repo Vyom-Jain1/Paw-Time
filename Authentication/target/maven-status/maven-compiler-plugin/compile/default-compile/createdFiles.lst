@@ -1,0 +1,16 @@
+com\example\authentication\config\SecurityConfig.class
+com\example\authentication\entity\RoleName.class
+com\example\authentication\repository\RoleRepository.class
+com\example\authentication\dto\AuthResponse.class
+com\example\authentication\entity\User.class
+com\example\authentication\entity\Role.class
+com\example\authentication\repository\UserRepository.class
+com\example\authentication\security\JwtAuthenticationFilter.class
+com\example\authentication\dto\LoginRequest.class
+com\example\authentication\config\DataInitializer.class
+com\example\authentication\controller\AuthController.class
+com\example\authentication\dto\RegisterRequest.class
+com\example\authentication\service\AuthService.class
+com\example\authentication\AuthenticationApplication.class
+com\example\authentication\security\CustomUserDetailsService.class
+com\example\authentication\security\JwtService.class
